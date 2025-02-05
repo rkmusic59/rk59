@@ -12,7 +12,7 @@ from config import OWNER_ID
 
 MESSAGES = f"""๏ ᴛʜɪs ɪs {app.mention}!
  
- ➻ ᴀ 𝗔𝗧𝗧𝗘𝗡𝗧𝗜𝗢𝗡,
+𝗔𝗧𝗧𝗘𝗡𝗧𝗜𝗢𝗡,
 
 Iғ Yᴏᴜ Fᴀᴄɪɴɢ Issᴜᴇs Wɪᴛʜ Oᴛʜᴇʀ Mᴜsɪᴄ Bᴏᴛs, I Hᴀᴠᴇ Aʟᴛᴇʀɴᴀᴛɪᴠᴇ Fᴏʀ Yᴏᴜ Aʟʟ. 
 
