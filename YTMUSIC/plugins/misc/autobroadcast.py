@@ -33,7 +33,7 @@ Oғғɪᴄɪᴀʟ  Bᴏᴛs.:-
 ╭⎋@kukumusicrobot
 ╰⊚𝐀ʟɪᴠᴇ✅
 
-╭⎋@odsmusicbot
+╭⎋@odsmusic_bot
 ╰⊚𝐀ʟɪᴠᴇ✅
 
 ╭⎋@siya_music_robot
